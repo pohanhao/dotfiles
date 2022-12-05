@@ -1,0 +1,7 @@
+require('hank.plugins-setup')
+require('hank.core.base')
+require('hank.core.keymaps')
+require('hank.core.colorscheme')
+require('hank.plugins.lualine')
+require('hank.plugins.nvim-tree')
+require('hank.plugins.nvim-cmp')
